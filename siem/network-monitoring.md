@@ -1,5 +1,5 @@
 # Network Monitoring
-At some point the rubber has to meet the road. This will be links related to Security Information and Event Monitoring (SIEM) hardware and software.
+At some point the rubber has to meet the road. This will be links related to Security Information and Event Monitoring (SIEM) hardware and software. This will also be where I add articles and tips for capturing logs.
 
 ## Links
 
