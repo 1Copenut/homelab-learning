@@ -2,5 +2,8 @@
 I prefer a bare-metal hypervisor to a hosted one.
 
 ## Setup
-* https://www.dlford.io/how-to-home-lab-part-1/
-* https://www.dlford.io/managing-proxmox-how-to-home-lab-part-2/
+* [How to Start a Home Lab: Part 1 - Proxmox VE](https://www.dlford.io/how-to-home-lab-part-1/)
+* [How to Home Lab: Part 2 - Managing Proxmox VE](https://www.dlford.io/managing-proxmox-how-to-home-lab-part-2/)
+
+## Automation
+* [Provision Proxmox VMs with Ansible, quick and easy](https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/)
