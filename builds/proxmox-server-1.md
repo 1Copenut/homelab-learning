@@ -1,4 +1,5 @@
 # Parts list for Proxmox server 1
+I built this server initially in February 2020, but have been upgrading the power supply, motherboard, and adding a redundant boot disk in August, 2022.
 
 ### Case
 * Cooler Master MasterBox NR400 Micro-ATX Tower with Front Mesh Ventilation
@@ -19,6 +20,6 @@
 * Gigabyte GV-N1030OC-2GI Nvidia GeForce GT 1030 OC 2G Graphics Card
 * TP-Link 10/100/1000Mbps Gigabit Ethernet PCI Express Network Card
 
-### Resource
+### Resources
 * [How to find a good PSU](https://forum-en.msi.com/index.php?threads/guide-how-to-find-a-good-psu.371729/)
 * [PSU Tier List rev. 16.0b](https://cultists.network/140/psu-tier-list/)
