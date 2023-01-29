@@ -6,6 +6,16 @@ I prefer a bare-metal hypervisor to a hosted one.
 * [How to Start a Home Lab: Part 1 - Proxmox VE](https://www.dlford.io/how-to-home-lab-part-1/)
 * [How to Home Lab: Part 2 - Managing Proxmox VE](https://www.dlford.io/managing-proxmox-how-to-home-lab-part-2/)
 
+## Hardening
+Anything to make it harder to compromise a server.
+
+###  SSH
+* [Configuring SSH Fido U2F with Yubikey](https://lawrencesystems.com/configuring-ssh-fido-u2f-authentication-with-yubikey/)
+* [SSH Copy ID](https://www.ssh.com/academy/ssh/copy-id) to quickly copy the public key to a remote server
+
+## Automation
+* [Provision Proxmox VMs with Ansible, quick and easy](https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/)
+
 ## Troubleshooting
 Anything that caused me grief or had to be looked up should go here.
 
@@ -14,6 +24,3 @@ DNS, NIC configuration, VLANs, bridges, anything related to the flow of data sho
 
 * [How to change my DNS settings](https://forum.proxmox.com/threads/how-to-change-my-dns.52879/)
 * [Bring interfaces up after physical change](https://forum.proxmox.com/threads/network-interface-down-after-physical-change.70164/)
-
-## Automation
-* [Provision Proxmox VMs with Ansible, quick and easy](https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/)
