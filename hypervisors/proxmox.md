@@ -7,7 +7,13 @@ I prefer a bare-metal hypervisor to a hosted one.
 * [How to Home Lab: Part 2 - Managing Proxmox VE](https://www.dlford.io/managing-proxmox-how-to-home-lab-part-2/)
 
 ## Troubleshooting
+Anything that caused me grief or had to be looked up should go here.
+
+### Networking
+DNS, NIC configuration, VLANs, bridges, anything related to the flow of data should go here.
+
 * [How to change my DNS settings](https://forum.proxmox.com/threads/how-to-change-my-dns.52879/)
+* [Bring interfaces up after physical change](https://forum.proxmox.com/threads/network-interface-down-after-physical-change.70164/)
 
 ## Automation
 * [Provision Proxmox VMs with Ansible, quick and easy](https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/)
