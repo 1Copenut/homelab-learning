@@ -15,6 +15,7 @@ Anything to make it harder to compromise a server.
 ###  SSH
 * [Configuring SSH Fido U2F with Yubikey](https://lawrencesystems.com/configuring-ssh-fido-u2f-authentication-with-yubikey/)
 * [SSH Copy ID](https://www.ssh.com/academy/ssh/copy-id) - to quickly copy the public key to a remote server
+* [Fail2ban - Proxmox VE forums](https://pve.proxmox.com/wiki/Fail2ban)
 
 ## Automation
 * [Provision Proxmox VMs with Ansible, quick and easy](https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/)
