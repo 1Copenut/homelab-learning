@@ -4,6 +4,7 @@ I prefer a bare-metal hypervisor to a hosted one.
 ## Setup
 * [How to Start a Home Lab: Part 1 - Proxmox VE](https://www.dlford.io/how-to-home-lab-part-1/)
 * [How to Home Lab: Part 2 - Managing Proxmox VE](https://www.dlford.io/managing-proxmox-how-to-home-lab-part-2/)
+* [Proxmox VE no-subscription repository list](https://pve.proxmox.com/wiki/Package_Repositories#sysadmin_no_subscription_repo)
 
 ## ZFS Storage
 * [How to Install Proxmox and Setup a ZFS Pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
