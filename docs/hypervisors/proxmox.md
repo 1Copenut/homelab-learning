@@ -4,10 +4,12 @@ I prefer a bare-metal hypervisor to a hosted one.
 ## Setup
 * [How to Start a Home Lab: Part 1 - Proxmox VE](https://www.dlford.io/how-to-home-lab-part-1/)
 * [How to Home Lab: Part 2 - Managing Proxmox VE](https://www.dlford.io/managing-proxmox-how-to-home-lab-part-2/)
+* [Proxmox VE no-subscription repository list](https://pve.proxmox.com/wiki/Package_Repositories#sysadmin_no_subscription_repo)
 
 ## ZFS Storage
 * [How to Install Proxmox and Setup a ZFS Pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
 * [ZFS - Create Disk Pools](https://blog.programster.org/zfs-create-disk-pools)
+* [Wiping Out Old GPT Data](https://www.rodsbooks.com/gdisk/wipegpt.html) - great resource for erasing and formatting disks
 
 ## Hardening
 Anything to make it harder to compromise a server.
@@ -29,3 +31,6 @@ DNS, NIC configuration, VLANs, bridges, anything related to the flow of data sho
 
 * [How to change my DNS settings](https://forum.proxmox.com/threads/how-to-change-my-dns.52879/)
 * [Bring interfaces up after physical change](https://forum.proxmox.com/threads/network-interface-down-after-physical-change.70164/)
+
+### Logging
+* [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
