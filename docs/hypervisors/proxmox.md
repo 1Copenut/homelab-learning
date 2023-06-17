@@ -9,6 +9,7 @@ I prefer a bare-metal hypervisor to a hosted one.
 ## ZFS Storage
 * [How to Install Proxmox and Setup a ZFS Pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
 * [ZFS - Create Disk Pools](https://blog.programster.org/zfs-create-disk-pools)
+* [Wiping Out Old GPT Data](https://www.rodsbooks.com/gdisk/wipegpt.html) - great resource for erasing and formatting disks
 
 ## Hardening
 Anything to make it harder to compromise a server.
