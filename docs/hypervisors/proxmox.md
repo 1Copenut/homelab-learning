@@ -12,6 +12,7 @@ I prefer a bare-metal hypervisor to a hosted one.
 * [Wiping Out Old GPT Data](https://www.rodsbooks.com/gdisk/wipegpt.html) - great resource for erasing and formatting disks
 * [Proxmox VE ZFS Storage](https://www.diytechguru.com/2020/12/12/create-zfs-storage-in-proxmox-ve/) - ZFS pool for disk images and containers only
 * [How To Create ZFS Backups in Proxmox](https://aaronweiss.me/how-to-create-zfs-backups-in-proxmox/) - ZFS VM backups
+* [Setup ZFS Pool Inside Proxmox](https://www.youtube.com/watch?v=oSD-VoloQag) - simplified process to create and mount ZFS `datasets`
 
 ## Hardening
 Anything to make it harder to compromise a server.
