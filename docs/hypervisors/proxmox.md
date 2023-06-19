@@ -34,6 +34,7 @@ DNS, NIC configuration, VLANs, bridges, anything related to the flow of data sho
 
 * [How to change my DNS settings](https://forum.proxmox.com/threads/how-to-change-my-dns.52879/)
 * [Bring interfaces up after physical change](https://forum.proxmox.com/threads/network-interface-down-after-physical-change.70164/)
+* [Linux Bridge vs OpenVSwitch — How to Improve Virtualization Network Performance](https://ioflood.com/blog/2021/07/08/linux-bridge-vs-openvswitch-how-to-improve-virtualization-network-performance/)
 
 ### Logging and Alerts
 * [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
