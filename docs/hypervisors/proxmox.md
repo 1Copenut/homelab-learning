@@ -39,7 +39,8 @@ DNS, NIC configuration, VLANs, bridges, anything related to the flow of data sho
 ## Logging and Alerts
 * [How To Use Systemctl to Manage Systemd Services and Units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
 * [Techno Tim: Set up alerts in Proxmox before it's too late!](https://docs.technotim.live/posts/proxmox-alerts/) - email alerting with Gmail and SMTP
+* [Learn Netdata](https://learn.netdata.cloud/)
 
 ## Building VMs
-* [Benchmark Proxmox Virtual Disk settings]https://blog.joeplaa.com/benchmark-proxmox-virtual-disk-settings/#:~:text=Best%20bus%20type,is%20newer%20and%20better%20maintained.
+* [Benchmark Proxmox Virtual Disk settings](https://blog.joeplaa.com/benchmark-proxmox-virtual-disk-settings/#:~:text=Best%20bus%20type,is%20newer%20and%20better%20maintained.
 * [A virtual disk image](https://subscription.packtpub.com/book/virtualization-and-cloud/9781788397605/4/ch04lvl1sec24/a-virtual-disk-image#:~:text=Proxmox%20supports%20the%20.,vmdk%20virtual%20disk%20formats.) - talks about the benefits of `qcow2` as a disk image.
