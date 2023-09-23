@@ -10,7 +10,7 @@ I like Docker for running complex apps in containers. I also like Debian because
 * Create Proxmox backup (optional). Could opt to wait until after Docker is installed.
 
 ### Adding a QEMU agent
-I haven't started doing much with QEMU agents so far, but I'm making it a point to install them on all VMs I create. As fate would have it, I forgot to install it on the Debian VM, but it was pretty easy to add after the fact:
+I haven't started doing much with [QEMU guest agents](https://pve.proxmox.com/wiki/Qemu-guest-agent) so far, but I'm making it a point to install them on all VMs I create. As fate would have it, I forgot to install it on the Debian VM, but it was pretty easy to add after the fact:
 
 * Click on the VM, then click `Options` in Proxmox web GUI
 * Click on `QEMU Agent` and then click `Edit`
