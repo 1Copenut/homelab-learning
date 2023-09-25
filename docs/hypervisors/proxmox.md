@@ -42,5 +42,5 @@ DNS, NIC configuration, VLANs, bridges, anything related to the flow of data sho
 * [Learn Netdata](https://learn.netdata.cloud/)
 
 ## Building VMs
-* [Benchmark Proxmox Virtual Disk settings](https://blog.joeplaa.com/benchmark-proxmox-virtual-disk-settings/#:~:text=Best%20bus%20type,is%20newer%20and%20better%20maintained.
+* [Benchmark Proxmox Virtual Disk settings](https://blog.joeplaa.com/benchmark-proxmox-virtual-disk-settings/#:~:text=Best%20bus%20type,is%20newer%20and%20better%20maintained)
 * [A virtual disk image](https://subscription.packtpub.com/book/virtualization-and-cloud/9781788397605/4/ch04lvl1sec24/a-virtual-disk-image#:~:text=Proxmox%20supports%20the%20.,vmdk%20virtual%20disk%20formats.) - talks about the benefits of `qcow2` as a disk image.
