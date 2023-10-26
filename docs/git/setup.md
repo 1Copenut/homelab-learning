@@ -1,4 +1,4 @@
 # Git setup
 
 ## GPG key setup and troubleshooting
-* [Export GPG key to zshrc on Linux](https://stackoverflow.com/a/55993078)
+* [Error signing commits using GPG](https://stackoverflow.com/a/55993078)
