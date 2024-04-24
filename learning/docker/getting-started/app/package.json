@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "mysql2": "^3.9.4",
+    "mysql2": "^3.9.7",
     "sqlite3": "^5.1.5",
     "uuid": "^9.0.0",
     "wait-port": "^1.0.4"
