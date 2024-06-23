@@ -1,11 +1,11 @@
-# pfSense Links
+# pfSense
 I like pfSense for an open-source firewall. This document will include links I found useful.
 
-## Basic Setup
+### Basic Setup
 - https://www.dlford.io/pfsense-nat-how-to-home-lab-part-3/
 - [6 Reasons to Use a pfSense Router](https://hometechhacker.com/pfsense-home-router/)
 
-## Add ons
+### Add ons
 - [PfSense Web Filter With pfBlockerNG – Filter Ads and Malicious Websites](https://openschoolsolutions.org/pfsense-web-filter-with-pfblockerng/) is a built-in alternative to Pi-hole, but does require a decent processor and RAM.
 - [6 pfSense Configurations To Do After Install](https://hometechhacker.com/6-pfsense-configurations-to-do-after-install/)
 - [5 Tips To Help Get The Most Out of pfSense](https://hometechhacker.com/5-tips-to-help-get-the-most-out-of-pfsense/)
