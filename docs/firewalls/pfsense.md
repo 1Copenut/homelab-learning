@@ -10,3 +10,8 @@ I like pfSense for an open-source firewall. This document will include links I f
 - [6 pfSense Configurations To Do After Install](https://hometechhacker.com/6-pfsense-configurations-to-do-after-install/)
 - [5 Tips To Help Get The Most Out of pfSense](https://hometechhacker.com/5-tips-to-help-get-the-most-out-of-pfsense/)
 - [Pfsense - Configure email notifications](https://techexpert.tips/pfsense/pfsense-email-notification-setup/)
+
+## OPNSense
+I didn't like where pfSense was going in terms of licensing and user information required to use the community version, so I'm looking closer at OPNSense now.
+
+* [Virtualize OPNsense on Proxmox as Your Primary Router](https://homenetworkguy.com/how-to/virtualize-opnsense-on-proxmox-as-your-primary-router/)
