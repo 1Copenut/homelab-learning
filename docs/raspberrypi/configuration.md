@@ -6,6 +6,10 @@
 ## Security
 Basic security procedures I should be undertaking while configuring new devices.
 
+### Firewall
+* [How to Use UFW (Uncomplicated Firewall)](https://www.baeldung.com/linux/uncomplicated-firewall)
+* [Ubuntu Uncomplicated Firewall](https://wiki.ubuntu.com/UncomplicatedFirewall)
+
 ### SSH
 * [How to Setup Raspberry Pi SSH Keys for Authentication](https://pimylifeup.com/raspberry-pi-ssh-keys/)
 * [SSH with YubiKey FIDO U2F Authentication](https://forums.lawrencesystems.com/t/ssh-with-yubikey-fido-u2f-authentication/13024)
