@@ -5,8 +5,9 @@ I built this server initially in February 2020, but have been upgrading the powe
 * Cooler Master MasterBox NR400 Micro-ATX Tower with Front Mesh Ventilation
 
 ### Storage
-* Samsung 970 Evo Plus M2 SSD &mdash; RAID 1 boot redundancy (2x)
+* Samsung 970 Evo Plus M2 SSD ~~&mdash; RAID 1 boot redundancy (2x)~~
 * 2TB Seagate Barracuda drives &mdash; 4TB RAID 10 storage (4x)
+* 3.84TB Micron Server Grade SSDs &mdash; RAID 1 storage (2x)
 
 ### Memory
 * G.Skill Ripjaws V Series 32GB (2 x 16GB) 288-Pin SDRAM (PC4-25600) DDR4 3200 &mdash; 64GB RAM (2x)
