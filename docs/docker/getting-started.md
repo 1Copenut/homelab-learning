@@ -24,3 +24,6 @@ I haven't started doing much with [QEMU guest agents](https://pve.proxmox.com/wi
 * `docker run hello-world`
 * Verify the success message works
 * Backup the Debian VM in Proxmox and watch sportsball before stating the next task
+
+## Security
+* [Lockdown Your Containers: 11 Docker Security Tips](https://dev.to/bobbyiliev/lockdown-your-containers-11-docker-security-tips-239l)
