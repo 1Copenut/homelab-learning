@@ -3,6 +3,7 @@ I like Debian. Maybe server-only. Maybe a daily driver. Maybe just a VM.
 
 ## Setup and Hardening
 - [Set up and auto-mount Ethernet cards](https://www.youtube.com/watch?v=X1HyrSzmtKA)
+- [Securing Debian Manual](https://www.debian.org/doc/manuals/securing-debian-manual/security-update.en.html)
 
 ### DHCP
 * Release DHCP lease. Helpful when moving from dynamic to static IP
