@@ -7,3 +7,6 @@ A simpler firewall based on [iptables](https://en.wikipedia.org/wiki/Iptables) f
 
 ## IPTables
 - [The Beginner’s Guide to iptables, the Linux Firewall](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/)
+
+## NFTables
+- [NFTables Man](https://www.netfilter.org/projects/nftables/manpage.html)
