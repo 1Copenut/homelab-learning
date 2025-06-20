@@ -26,6 +26,9 @@ I didn't like where pfSense was going in terms of licensing and user information
 
 ## Security
 
+### TOPT
+* [How to Enable 2FA in OPNsense with Google Authenticator?](https://www.zenarmor.com/docs/network-security-tutorials/how-to-enable-2fa-in-opnsense-with-google-authenticator)
+
 ### Firewall rules
 * [Drop versus Reject](https://www.chiark.greenend.org.uk/~peterb/network/drop-vs-reject)
 
