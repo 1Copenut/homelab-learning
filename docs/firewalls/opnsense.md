@@ -14,6 +14,9 @@ I didn't like where pfSense was going in terms of licensing and user information
 
 ### DNS (Unbound default)
 * [Install Pi-hole on Proxmox and Use OPNsense Unbound DNS as Upstream DNS](https://homenetworkguy.com/how-to/install-pi-hole-on-proxmox-and-use-opnsense-unbound-dns-as-upstream-dns/) `verfied`
+* [How to Configure DNS over TLS (DoT) Using Unbound DNS in OPNsense](https://homenetworkguy.com/how-to/configure-dns-over-tls-unbound-opnsense/) `verified`
+* [How to Redirect Unencrypted DNS Requests to Your Local DNS Resolver in OPNsense](https://homenetworkguy.com/how-to/redirect-all-dns-requests-to-local-dns-resolver/)
+* [Cloudflare DNS checker](https://one.one.one.one/help/) `verified`
 
 ### Pihole
 * [The big blocklist collection](https://firebog.net/)
@@ -25,6 +28,13 @@ I didn't like where pfSense was going in terms of licensing and user information
 * [Set Up a Management VLAN for OPNsense, a Network Switch, and a Wireless Access Point](https://homenetworkguy.com/how-to/set-up-management-vlan-for-opnsense-network-switch-and-access-point/)
 
 ## Security
+
+### General hardening
+* [12 Ways to Secure Access to OPNsense and Your Home Network](https://homenetworkguy.com/how-to/ways-to-secure-access-to-opnsense-and-your-home-network/)
+* [Disable Logging into OPNsense as the Root User](https://homenetworkguy.com/how-to/disable-root-user-opnsense/)
+
+### TOPT
+* [How to Enable 2FA in OPNsense with Google Authenticator?](https://www.zenarmor.com/docs/network-security-tutorials/how-to-enable-2fa-in-opnsense-with-google-authenticator)
 
 ### Firewall rules
 * [Drop versus Reject](https://www.chiark.greenend.org.uk/~peterb/network/drop-vs-reject)
