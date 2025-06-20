@@ -19,6 +19,10 @@ I didn't like where pfSense was going in terms of licensing and user information
 * [The big blocklist collection](https://firebog.net/)
 * Change password from the container / Pihole commandline: `$ pihole -a -p`
 
+## Traffic management (switches)
+* [How to Configure VLANs on a TP-Link Managed Switch](https://homenetworkguy.com/how-to/configure-vlans-tp-link-switch/)
+* [How to Configure VLANs on TP-Link Switch for UniFi Access Points with VLAN per SSID](https://homenetworkguy.com/how-to/configure-tp-link-switch-vlan-with-unifi-access-points-vlan-per-ssid/)
+
 ## Security
 
 ### Firewall rules
