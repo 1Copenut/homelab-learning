@@ -14,6 +14,7 @@ I didn't like where pfSense was going in terms of licensing and user information
 
 ### DNS (Unbound default)
 * [Install Pi-hole on Proxmox and Use OPNsense Unbound DNS as Upstream DNS](https://homenetworkguy.com/how-to/install-pi-hole-on-proxmox-and-use-opnsense-unbound-dns-as-upstream-dns/) `verfied`
+* [Cloudflare DNS checker](https://one.one.one.one/help/) `verified`
 
 ### Pihole
 * [The big blocklist collection](https://firebog.net/)
