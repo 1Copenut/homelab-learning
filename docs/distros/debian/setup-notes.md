@@ -15,6 +15,7 @@ I like Debian. Maybe server-only. Maybe a daily driver. Maybe just a VM. I also 
 
 ### DHCP
 * Release DHCP lease. Helpful when moving from dynamic to static IP
+  
   ```shell
   # Use the MAC address to target this NIC in static IP
   # assignment, then release and renew the dhclient
