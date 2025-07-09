@@ -2,6 +2,7 @@
 
 ## Day to day usage
 * [How to Use Git Rebase: A Tutorial for Beginners](https://www.datacamp.com/tutorial/git-rebase-tutorial-for-beginners)
+* [Git Cherry-Pick: How to Select and Apply Specific Commits](https://www.datacamp.com/tutorial/git-cherry-pick)
 
 ## GPG key setup and troubleshooting
 * [Error signing commits using GPG](https://stackoverflow.com/a/55993078)
