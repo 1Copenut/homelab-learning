@@ -1,5 +1,8 @@
 # Git setup
 
+## Day to day usage
+* [How to Use Git Rebase: A Tutorial for Beginners](https://www.datacamp.com/tutorial/git-rebase-tutorial-for-beginners)
+
 ## GPG key setup and troubleshooting
 * [Error signing commits using GPG](https://stackoverflow.com/a/55993078)
 * [Signing Git commits with GPG keys that use modern encryption](https://dev.to/benjaminblack/signing-git-commits-with-modern-encryption-1koh)
