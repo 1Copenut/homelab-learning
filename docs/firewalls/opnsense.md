@@ -32,6 +32,7 @@ I didn't like where pfSense was going in terms of licensing and user information
 ### General hardening
 * [12 Ways to Secure Access to OPNsense and Your Home Network](https://homenetworkguy.com/how-to/ways-to-secure-access-to-opnsense-and-your-home-network/)
 * [Disable Logging into OPNsense as the Root User](https://homenetworkguy.com/how-to/disable-root-user-opnsense/)
+* [The OPNsense Foundation: Building a Bulletproof Homelab Firewall (Part 1)](https://corelab.tech/opnsensept1/#part-3-building-our-first-digital-moat-aliases-blocklists)
 
 ### TOPT
 * [How to Enable 2FA in OPNsense with Google Authenticator?](https://www.zenarmor.com/docs/network-security-tutorials/how-to-enable-2fa-in-opnsense-with-google-authenticator)
