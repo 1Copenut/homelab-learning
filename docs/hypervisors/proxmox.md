@@ -25,6 +25,8 @@ Anything to make it harder to compromise a server.
 
 ## Automation
 * [Provision Proxmox VMs with Ansible, quick and easy](https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/)
+* [Creating a VM Template in Proxmox](https://tcude.net/creating-a-vm-template-in-proxmox/)
+* [Using Terraform with Proxmox](https://tcude.net/using-terraform-with-proxmox/)
 
 ## Troubleshooting
 Anything that caused me grief or had to be looked up should go here.
