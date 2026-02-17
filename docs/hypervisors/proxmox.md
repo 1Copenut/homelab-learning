@@ -23,11 +23,6 @@ Anything to make it harder to compromise a server.
 * [Fail2ban - Proxmox VE forums](https://pve.proxmox.com/wiki/Fail2ban)
 * [Securing Proxmox and SSH using Fail2Ban](https://www.ukhost4u.com/securing-proxmox-and-ssh-using-fail2ban/)
 
-## Automation
-* [Provision Proxmox VMs with Ansible, quick and easy](https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/)
-* [Creating a VM Template in Proxmox](https://tcude.net/creating-a-vm-template-in-proxmox/)
-* [Using Terraform with Proxmox](https://tcude.net/using-terraform-with-proxmox/)
-
 ## Troubleshooting
 Anything that caused me grief or had to be looked up should go here.
 
@@ -48,3 +43,9 @@ DNS, NIC configuration, VLANs, bridges, anything related to the flow of data sho
 * [A virtual disk image](https://subscription.packtpub.com/book/virtualization-and-cloud/9781788397605/4/ch04lvl1sec24/a-virtual-disk-image#:~:text=Proxmox%20supports%20the%20.,vmdk%20virtual%20disk%20formats.) - talks about the benefits of `qcow2` as a disk image.
 * [Why you should always turn on "Discard" with ZFS](https://forum.proxmox.com/threads/turn-on-discard-option.89208/post-390516)
 * [Creating a Debian LXC Container on Proxmox](https://www.naturalborncoder.com/linux/2023/07/25/creating-a-debian-lxc-container-on-proxmox/)
+
+### Automation
+* [Provision Proxmox VMs with Ansible, quick and easy](https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/)
+* [Creating a VM Template in Proxmox](https://tcude.net/creating-a-vm-template-in-proxmox/)
+* [Using Terraform with Proxmox](https://tcude.net/using-terraform-with-proxmox/)
+
