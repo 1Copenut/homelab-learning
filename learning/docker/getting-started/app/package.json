@@ -12,7 +12,7 @@
     "express": "^4.20.0",
     "mysql2": "^3.9.8",
     "sqlite3": "^5.1.5",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "wait-port": "^1.0.4"
   },
   "resolutions": {
